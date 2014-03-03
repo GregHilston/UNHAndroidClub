@@ -1,4 +1,4 @@
 UNHAndroidClub
 ==============
 
-Android application code for the University of New Hampshire's Android club.
+The University of New Hampshire's Android club public repository.
